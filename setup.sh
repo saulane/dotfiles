@@ -40,25 +40,33 @@ install_base_packages_apt() {
     cmake
     curl
     fd-find
+    ffmpeg
     fzf
     git
+    gnome-tweaks
+    gparted
     htop
     jq
     just
     make
+    nvtop
     neovim
     nodejs
     npm
+    openssh-server
     pkg-config
     python3
     python3-pip
+    python3-venv
     ripgrep
     rustup
     shellcheck
     sqlite3
     tmux
+    timeshift
     tree
     unzip
+    vim
     wget
     zip
   )
